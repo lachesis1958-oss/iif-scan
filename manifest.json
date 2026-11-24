@@ -1,0 +1,1122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lachesis1958-oss.github.io/iif-scan/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "ja": [
+      "B5資料 37ページ"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/001.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "2"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/002.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/3",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "3"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/003.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/4",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "4"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/004.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/5",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "5"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/005.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/6",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "6"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/006.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/7",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "7"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/007.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/8",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "8"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/008.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/9",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "9"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/9",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/009.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/10",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "10"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/10",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/010.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/11",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "11"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/11",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/011.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/12",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "12"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/12",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/012.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/13",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "13"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/13",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/013.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/14",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "14"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/14",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/014.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/15",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "15"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/15",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/015.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/16",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "16"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/16",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/016.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/17",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "17"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/17",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/017.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/18",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "18"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/18",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/018.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/19",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "19"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/19",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/019.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/20",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "20"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/20",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/020.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/21",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "21"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/21",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/021.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/22",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "22"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/22",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/022.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/23",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "23"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/23",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/023.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/24",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "24"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/24",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/024.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/25",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "25"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/25",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/025.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/26",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "26"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/26",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/026.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/27",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "27"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/27",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/027.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/28",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "28"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/28",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/028.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/29",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "29"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/29",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/029.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/30",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "30"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/30",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/030.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/31",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "31"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/31",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/031.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/32",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "32"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/32",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/032.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/33",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "33"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/33",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/033.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/34",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "34"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/34",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/034.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/34"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/35",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "35"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/35",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/035.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/35"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/36",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "36"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/36",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/036.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lachesis1958-oss.github.io/iif-scan/canvas/37",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "37"
+        ]
+      },
+      "width": 2022,
+      "height": 2936,
+      "items": [
+        {
+          "id": "https://lachesis1958-oss.github.io/iif-scan/page/37",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lachesis1958-oss.github.io/iif-scan/annotation/37",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lachesis1958-oss.github.io/iif-scan/images/037.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://lachesis1958-oss.github.io/iif-scan/canvas/37"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
